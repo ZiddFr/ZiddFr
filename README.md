@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ZiddFr
-- 👀 Me interesa mucho el desarrollo front end aunque mi meta a mediano/largo plazo es ser desarrollador full stack.
+- 👀 Me interesa mucho el desarrollo frontend aunque mi meta a mediano/largo plazo es ser desarrollador full stack.
 - 🌱 Actualmente estoy aprendiendo React y Typescript, también Java los fines de semana.
 
 
